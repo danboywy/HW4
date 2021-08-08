@@ -1,6 +1,6 @@
 //Haojie Zheng
 //Haojie_zheng@student.uml.edu
-//07/31/2021
+//08/09/2021
 
 //Create method to test input
 
